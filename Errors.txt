@@ -1,0 +1,2 @@
+As vezes pode ocorrer um erro nas pastas dos aplicativos. Deve-se executar o seguinte comando dentro da pasta
+flutter pub get
